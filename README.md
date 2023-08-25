@@ -1,5 +1,6 @@
 # Date Time
 
+![Date and Time Program](./images/date-time.png)
 Merupakan kumpulan dari beberapa Bahasa Pemrograman untuk Source Code dari Sistem Penanggalan.
 
 ## Classical Date System
