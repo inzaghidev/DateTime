@@ -15,8 +15,8 @@ Tanggal : 17\
 Hari : 5 (Friday)\
 Hari ke (dalam Setahun) : 76 \
 Jam : 22\
-Menit : 42\  
-Detik : 52\
+Menit : 42
+Detik : 52
 
 Friday, 17 March 2023\
 Day-76\
